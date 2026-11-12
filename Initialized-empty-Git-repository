@@ -1,0 +1,3 @@
+mkdir git-merge-test
+cd git-merge-test
+git init -b master
